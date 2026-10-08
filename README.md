@@ -3,6 +3,14 @@
 > **The AI-Native Programmable Launch Infrastructure for RWA & Tokenized Assets on Solana**  
 > *Built for Superteam Earn Listing: Best use of Meteora's Dynamic Bonding Curve (DBC)*
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-curve--os--seven.vercel.app-18D5E8?style=for-the-badge&logo=vercel)](https://curve-os-seven.vercel.app)
+[![YouTube Walkthrough](https://img.shields.io/badge/YouTube-Demo%20Walkthrough-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/NMX0ZO1GfYQ)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-white?style=for-the-badge&logo=github)](https://github.com/Ayushgupta1715/curve-os)
+
+- 🌐 **Live Application**: [https://curve-os-seven.vercel.app](https://curve-os-seven.vercel.app)
+- 🎥 **Video Walkthrough (YouTube)**: [https://youtu.be/NMX0ZO1GfYQ](https://youtu.be/NMX0ZO1GfYQ)
+- 📁 **GitHub Repository**: [https://github.com/Ayushgupta1715/curve-os](https://github.com/Ayushgupta1715/curve-os)
+
 ---
 
 ## 🏆 The Killer Combination
